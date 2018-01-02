@@ -106,4 +106,5 @@
         }
   }
   $_SESSION['fb_User_ID'] = (string) $User_ID;
+  <meta http-equiv=’refresh’ content=’0; url=”http://$_SERVER%5B‘HTTP_HOST’%5D/welcome2.php”/&gt;
   ?>
